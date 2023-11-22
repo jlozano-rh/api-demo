@@ -7,7 +7,7 @@ This project was made to test Spring Boot with an example API of Users.
 * Generate a new project with [Spring Initializr](https://start.spring.io/) and select next options:
   * **Language:** ⬤ Java
   * **Project:** ⬤ Maven
-  * **Spring Boot Version:** ⬤ 3.1.5
+  * **Spring Boot Version:** ⬤ 2.7.17
   * **Packaging:** ⬤ Jar
   * **Java Version:** ⬤ 11
   * **Add next dependencies:**
